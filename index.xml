@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Website - Laura</title>
-    <link>http://example.org/index.xml</link>
-    <description>Recent content on Hugo Website - Laura</description>
+    <title>Blog Title</title>
+    <link>http://nodejh.com/index.xml</link>
+    <description>Recent content on Blog Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://nodejh.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
